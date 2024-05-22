@@ -1,0 +1,5 @@
+in\dj\entity\User.class
+in\dj\controller\UserController.class
+in\dj\repository\UserRepo.class
+in\dj\AutowiringAppApplication.class
+in\dj\generators\UserGenerator.class
